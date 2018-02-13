@@ -1,0 +1,11 @@
+James,ODD,1
+Harry,ODD,2
+Alex,EVEN,3
+Henry,ODD,4
+Ariana,ODD,5
+James,1,1
+Harry,2,2
+Alex,3,3
+Henry,4,4
+Arianna,5,5
+END
